@@ -68,7 +68,26 @@
 .player {
   padding: 10px;
   margin: 0 auto;
-  
+  display: block;
+  max-width: 100%;
+}
+
+.playlist-header {
+  text-align: center;
+}
+
+.follow {
+  margin: 0 auto;
+  display: block;
+}
+
+.artwork {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30em;
+  max-width: 100%;
+  opacity: 0.7;
 }
 
 .image-col {
